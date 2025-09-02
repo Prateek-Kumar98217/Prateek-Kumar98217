@@ -17,5 +17,7 @@ CSE UnderGrad | Fullstack & Applied AI/ML
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar98217&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Kumar98217&layout=compact&theme=radical" />
 </p>
